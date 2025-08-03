@@ -6,7 +6,7 @@
 ### 名前の例
 - **sample.c** を作成した後、そのコードがエラー、解き終わらなかった、または解法が分からない場合
 <br><br>
-&emsp; 元のプログラム名: **sample.c**  
-&emsp; 解説を見た後のプログラム名: **sample_rewrite.c**
+&emsp; 元のプログラム名 : **sample.c**  
+&emsp; 解説を見た後のプログラム名 : **sample_rewrite.c**
 <br><br>
 としています。  
